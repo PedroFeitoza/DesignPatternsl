@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\bin\Debug\net5.0\DesignPatternsl.exe
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\bin\Debug\net5.0\DesignPatternsl.deps.json
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\bin\Debug\net5.0\DesignPatternsl.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\bin\Debug\net5.0\DesignPatternsl.runtimeconfig.dev.json
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\bin\Debug\net5.0\DesignPatternsl.dll
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\bin\Debug\net5.0\ref\DesignPatternsl.dll
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\bin\Debug\net5.0\DesignPatternsl.pdb
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.dll
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\ref\DesignPatternsl.dll
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.pdb
+C:\Users\T-Gamer\Documents\Github\DesignPatternsC#-01\DesignPatternsl\DesignPatternsl\obj\Debug\net5.0\DesignPatternsl.genruntimeconfig.cache
