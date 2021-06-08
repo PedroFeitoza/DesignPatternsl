@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DesignPatternsl.Strategy;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +7,12 @@ using System.Threading.Tasks;
 
 namespace DesignPatternsl
 {
-    public class ICCC : Imposto
+    public class ICCC : IImposto
     {
         public double Calcula(Orcamento orcamento)
         {
-            switch (orcamento.Valor)
+            var valor = orcamento.Valor;
+            switch (valor)
             {
                 case <1000:
                     return orcamento.Valor * 0.05;
